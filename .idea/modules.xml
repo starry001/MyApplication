@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dagger2/Dagger2.iml" filepath="$PROJECT_DIR$/Dagger2/Dagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreenDaoDemo/GreenDaoDemo.iml" filepath="$PROJECT_DIR$/GreenDaoDemo/GreenDaoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotFixDemo/HotFixDemo.iml" filepath="$PROJECT_DIR$/HotFixDemo/HotFixDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPushExample/JPushExample.iml" filepath="$PROJECT_DIR$/JPushExample/JPushExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsonTest/JsonTest.iml" filepath="$PROJECT_DIR$/JsonTest/JsonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RxJavaLearning/RxJavaLearning.iml" filepath="$PROJECT_DIR$/RxJavaLearning/RxJavaLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apkreaddemo/apkreaddemo.iml" filepath="$PROJECT_DIR$/apkreaddemo/apkreaddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadplugin/loadplugin.iml" filepath="$PROJECT_DIR$/loadplugin/loadplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytools/mytools.iml" filepath="$PROJECT_DIR$/mytools/mytools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pluginApk/pluginApk.iml" filepath="$PROJECT_DIR$/pluginApk/pluginApk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipebacklayoutDemo/swipebacklayoutDemo.iml" filepath="$PROJECT_DIR$/swipebacklayoutDemo/swipebacklayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdextoast/testdextoast.iml" filepath="$PROJECT_DIR$/testdextoast/testdextoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+    </modules>
+  </component>
+</project>

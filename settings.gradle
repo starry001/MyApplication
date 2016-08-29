@@ -1,0 +1,1 @@
+include ':app', ':apkreaddemo', ':utils', ':RxJavaLearning', ':JsonTest', ':mytools', ':Dagger2', ':JPushExample', ':swipebacklayoutDemo', ':testdextoast', ':pluginApk', ':loadplugin', ':GreenDaoDemo', ':HotFixDemo'
